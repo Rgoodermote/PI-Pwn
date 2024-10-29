@@ -1,3 +1,6 @@
+# This is a modified version
+This just adds the ability to update the OS running on the installed device. It has only been tested on Raspberry Pi OS on a PI 4, but it should work on any Debian based OS that uses APT.
+
 # PI Pwn
 
 This is a script to setup <a href=https://github.com/TheOfficialFloW/PPPwn>PPPwn</a> and <a href=https://github.com/xfangfang/PPPwn_cpp>PPPwn_cpp</a> on the raspberry pi.<br> 
